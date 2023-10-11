@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Pinchbite": {
+            "applicationId": "Lz8yKdMoyXQylo9MHMsVZv8LF1ZH5XpFb6iE0jOU",
+            "masterKey": "Qhl6cMTTbxklNfhBWcSIxzRrQR0jgnUsNqAJfC5c"
+        }, 
+        "_default": {
+            "link": "Pinchbite"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.19"
+    }
+}
