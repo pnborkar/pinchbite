@@ -4,6 +4,7 @@ This one is our MVP product to showcase pre-order and pickup from your favorite 
 PinchBite makes it very easy to look up restaurants, select the menu and make changes to your order, before sending to the restaurant for processing. You will be notified once the restaurant acknowledges your order. There is a interesting concept of pre-ordering the menu items — you can select the menu and number of guests and preorder before getting to the restautant. The food will be prepared and will be in time when you get the table. Getting some feedback from some of the fine dining restaurants if it makes sense as restaurants can also manage their time better. There is another concept of socializing and let your friends/colleagues chose the menu items for themselves and update it, once all is done they can place the order, so restaurants can pick up and each menu item will have person's name attached.
 
 What's in Version 1.0 (Features):
+
 Client App (iOS)
 - Able to search restaurants in your area
 - Search menu for the restaurant. This is full menu from the restaurant. Different menu types are color coded- Menus are shown in various color bands, so its easier for user to select the menu
