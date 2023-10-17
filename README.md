@@ -5,13 +5,12 @@ PinchBite makes it very easy to look up restaurants, select the menu and make ch
 
 What's in Version 1.0 (Features):
 Client App (iOS)
-    - Able to search restaurants in your area
-    - Search menu for the restaurant. This is full menu from the restaurant. Different menu types are color coded- Menus are shown in various color bands, so its easier for user tO 
-      select the menu
-    - For the selected menu items, user can modify the number of items or delete the menu items, specify order types like pickup/deliver /preorder, # of people, time of arrival and t 
-      then send the order to the restaurant for processing- Able to get notification from the restaurant once the order is being processed
+- Able to search restaurants in your area
+- Search menu for the restaurant. This is full menu from the restaurant. Different menu types are color coded- Menus are shown in various color bands, so its easier for user to select the menu
+- For the selected menu items, user can modify the number of items or delete the menu items, specify order types like pickup/deliver /preorder, # of people, time of arrival and then send the order to the restaurant for processing- Able to get notification from the restaurant once the order is being processed
+
 Restaurant App (iOS)
-    - Able to confirm and process the incoming order
+- Able to confirm and process the incoming order
 
 Whats Coming in Future:: 
 - Will add many restaurants so users will have lot to choose from.
